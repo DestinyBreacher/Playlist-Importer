@@ -4,7 +4,7 @@ from google.auth.transport.requests import Request
 import json
 import pickle
 import os
-from rando import l
+from Spotify_api_thing import l
 creds=None
 apikey='AIzaSyCN2KkWoDo0PG_daCvhMGps3ccimCvE2nA'
 
